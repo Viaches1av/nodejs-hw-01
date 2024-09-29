@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "5d275cf3-5e9b-4ae7-9b47-c7403a9653ce",
+    "name": "Ramona Streich",
+    "phone": "996-527-8880 x56400",
+    "email": "Mohammad.Quigley@hotmail.com",
+    "job": "Direct Research Facilitator"
+  },
+  {
+    "id": "8ecec25f-9990-46cd-94e0-768ee420a000",
+    "name": "Jordan Baumbach",
+    "phone": "632-244-4608 x5572",
+    "email": "Virgil_Brakus6@hotmail.com",
+    "job": "Investor Division Orchestrator"
+  },
+  {
+    "id": "4dca99f9-faef-4918-9038-039a8595d938",
+    "name": "Gordon Zieme",
+    "phone": "282.688.5617",
+    "email": "Tyler_Nader@gmail.com",
+    "job": "Product Metrics Engineer"
+  }
+]
